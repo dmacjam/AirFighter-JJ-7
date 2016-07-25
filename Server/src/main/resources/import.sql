@@ -1,0 +1,1 @@
+/*INSERT INTO "user" (id,firstname,surname) VALUES(1,'Jakub','Macina');*/

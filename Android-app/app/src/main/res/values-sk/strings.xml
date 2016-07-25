@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Ahoj svet!</string>
+
+    <string name="best_score">Najlepšie skóre</string>
+    <string name="about">O aplikácii</string>
+    <string name="game_over">Koniec hry</string>
+    <string name="name">kamarát</string>
+
+</resources>
